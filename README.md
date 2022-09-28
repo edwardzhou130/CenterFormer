@@ -1,7 +1,7 @@
 # CenterFormer
-Implementation for CenterFormer: Center-based Transformer for 3D Object Detection (ECCV 2022)
+CenterFormer: Center-based Transformer for 3D Object Detection (ECCV 2022)
 
-Code is coming soon!
+Code will be released at [https://github.com/TuSimple/centerformer](https://github.com/TuSimple/centerformer)
 
 ## Citation
 ```
